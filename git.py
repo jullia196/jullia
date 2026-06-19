@@ -1,4 +1,4 @@
-cor = "azul"
+animal = "gato"
 
-if cor == "azul":
-    print("você escolheu azul")
+if animal == "gato":
+    print("você escolheu gato")
