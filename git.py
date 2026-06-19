@@ -1,7 +1,7 @@
-numero = 10
+fruta = "morango"
 
-if numero >8:
-    print("numero")
+if fruta == "morango":
+    print("você escolheu morango")
 
 
 
