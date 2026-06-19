@@ -1,4 +1,4 @@
-animal = "gato"
+time = "Flamengo"
 
-if animal == "gato":
-    print("você escolheu gato")
+if time == "Flamengo":
+    print("Você torce para o Flamengo.")
