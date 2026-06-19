@@ -1,8 +1,4 @@
-fruta = "morango"
+cor = "azul"
 
-if fruta == "morango":
-    print("você escolheu morango")
-
-
-
-
+if cor == "azul":
+    print("você escolheu azul")
